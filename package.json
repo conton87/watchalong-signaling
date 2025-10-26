@@ -1,0 +1,6 @@
+{
+  "name": "watchalong-signaling",
+  "type": "module",
+  "dependencies": { "ws": "^8.17.0" },
+  "scripts": { "start": "node index.js" }
+}
